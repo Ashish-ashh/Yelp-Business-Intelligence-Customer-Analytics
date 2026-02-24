@@ -138,7 +138,7 @@ Potential improvements include:
 
 ## 📷 Visualizations
 
-(Add your charts here — examples below)
+(you can see visualisations in Report)
 
 * Rating Distribution
 * Top Businesses by Reviews
